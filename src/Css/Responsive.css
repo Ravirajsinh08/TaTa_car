@@ -1,0 +1,13 @@
+
+@media (min-width: 280px) and (max-width: 991px) {
+    button.navbar-toggler.collapsed{
+        background-color: white;
+    }
+    nav.nav.navbar.navbar-expand-lg.navbar-light{
+        background: url("../Images/back4.jpg");
+    }
+    .carousel.slide.carousel-fade {
+        background-color: white;
+    }
+  };
+  

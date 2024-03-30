@@ -1,0 +1,50 @@
+img.d-inline-block.align-top {
+   
+    margin-left: 12px;
+    width: 40px;
+}
+nav.nav.navbar.navbar-expand-lg.navbar-light {
+   z-index: 999;
+    background: transparent;
+}
+.Home-image {
+    position: absolute;
+    top: 0px;
+}
+.cursolimg {
+    width: 100%;
+}
+.me-auto.navbar-nav {
+    margin-left: 85%;
+}
+a.btn.icons {
+   
+   color: white;
+}
+.carousel.slide.carousel-fade {
+    bottom: 64px;
+}
+.col-md-3.col-6 {
+    width: 33%;
+}
+.cardimg{
+    width: 380px;
+}
+
+.backimg{
+    width: 100%;
+    height: 56px;
+ top: 0px;
+    position: absolute;
+}
+.productpage{
+    top: 100px;
+    width: 100%;
+    position: absolute;
+}
+/* .nav.sticky-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
+  } */
